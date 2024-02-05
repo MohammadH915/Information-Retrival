@@ -47,4 +47,4 @@ This Python script demonstrates a comprehensive approach to processing Persian t
 
 ## Dataset
 
-The script expects a JSON file (`IR_data_news_5k.json`) containing Persian text documents. Each document should have a unique identifier and contain textual content for processing and indexing.
+The script expects a JSON file (`IR_data_news_12k.json`) containing Persian text documents. Each document should have a unique identifier and contain textual content for processing and indexing.
